@@ -32,8 +32,8 @@ td:first-child {
     font-weight: 700; /* [3] */
 }
 
-td:first-child::after {
-    content: ' 2020';  /* [7] */
+tbody td:first-child::after {
+    content: ' 2021';  /* [7] */
 }
 
 td:empty::after {
