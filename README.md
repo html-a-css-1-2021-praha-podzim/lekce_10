@@ -2,8 +2,8 @@
 
 ## Příklady
 
-- [Formuláře](priklady/01-formulare)
-- [Tabulky](priklady/02-tabulky)
+- [Tabulky](priklady/01-tabulky)
+- [Formuláře](priklady/02-formulare)
 
 ## Formuláře
 
