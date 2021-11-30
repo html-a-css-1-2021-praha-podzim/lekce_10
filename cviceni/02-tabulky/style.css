@@ -1,0 +1,9 @@
+/*
+    1. Orámovat jednoduchou čarou (barva:_#ccc)
+    2. Přidat vnitřní odsazení buňkám tabulky (padding)
+    3. Data konzultací tučně (hint: :first-child)
+    4. Do prázdných buněk vypsat znak: "×" (hint: :empty)
+    5. Liché řádky tabulky podbarvit (barva: #ddd)
+    6. Sudé řádky tabulky podbarvit (barva: #eee)
+    7. Bonus: za datum dopsat letošní rok (pomocí CSS!)
+*/
