@@ -7,3 +7,35 @@
     6. Sudé řádky tabulky podbarvit (barva: #eee)
     7. Bonus: za datum dopsat letošní rok (pomocí CSS!)
 */
+
+table,
+th,
+td {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 1rem;
+}
+
+tbody td:first-child {
+  font-weight: bold;
+}
+
+td:empty::before {
+  content: 'X';
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #ddd;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #eee;
+}
+
+tbody td:first-child::after {
+  content: '2021';
+}

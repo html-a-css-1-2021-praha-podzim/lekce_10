@@ -15,3 +15,12 @@ Můžeš přidat cokoliv dalšího, co ti připadá důležité pro registračn�
 BONUS: Formulář pěkně nastyluj.
 
  */
+
+input {
+  display: block;
+  margin-bottom: 1rem;
+}
+
+[type='radio'] {
+  display: inline;
+}
